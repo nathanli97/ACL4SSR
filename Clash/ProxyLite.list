@@ -330,7 +330,6 @@ IP-CIDR,203.104.128.0/19,no-resolve
 
 # OpenAi
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # OneDrive
 DOMAIN-KEYWORD,1drv
